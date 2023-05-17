@@ -2,7 +2,7 @@
 
 #### Name: [your name in Chinese or English]
 #### Student ID: [your student ID]
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/>]
+#### ShinyApps link: [< https://jakianyoky.shinyapps.io/NCCU_DS2023_hw4_111753222/>]
 
 ## Description
 
